@@ -1,0 +1,51 @@
+{
+    "code_topic": [
+        "code",
+        "coding",
+        "programming",
+        "python",
+        "debug",
+        "debugging",
+        "run",
+        "script"
+    ],
+    "math_topic": [
+        "math",
+        "calculation",
+        "equation",
+        "statistics",
+        "probability",
+        "problems"
+    ],
+    "writing_topic": [
+        "write",
+        "writing",
+        "essay",
+        "edit",
+        "grammar",
+        "paragraph",
+        "emails"
+    ],
+    "research_topic": [
+        "reference",
+        "references",
+        "citation",
+        "citations",
+        "source",
+        "sources",
+        "paper",
+        "search",
+        "information"
+    ],
+    "chat_topic": [
+        "chat",
+        "conversation",
+        "brainstorm",
+        "discuss",
+        "explain",
+        "explaining",
+        "concepts",
+        "questions",
+        "ideas"
+    ]
+}
